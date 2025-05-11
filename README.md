@@ -1,0 +1,2 @@
+# Sproutly
+AI POWERED GARDENING APP UI
